@@ -6,7 +6,7 @@ the 'highlight' class.
 Only 1 box should be highlighted at a time.
 You will need to add to the highlightASquare function, you are also welcome to write more than the given functions.
 
-## jQuery Pro Practice Project
+## jQuery Pro Practice Project (optional)
 
 Write code to make the number on the DOM countdown each second. Only one number should be displayed on the DOM at a time.
 
